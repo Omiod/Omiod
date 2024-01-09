@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,godot)](https://skillicons.dev)
 
-![Omiod's GitHub stats](https://github-readme-stats.vercel.app/api?username=omiod&show_icons=true&theme=radical)
+<!-- ![Omiod's GitHub stats](https://github-readme-stats.vercel.app/api?username=omiod&show_icons=true&theme=radical) -->
 
 <!--
 **Omiod/Omiod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
